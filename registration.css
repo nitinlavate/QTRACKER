@@ -1,0 +1,47 @@
+*{
+    margin-top: 1px;
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.main-div{
+    /* background-color: red; */
+    height: 84vh;
+    width: 100%;
+    position: fixed;
+
+}
+.q{
+    margin-top: ;
+    font-size: 55px;
+    font-weight: bolder;
+    color: rgb(242, 161, 10);
+    -webkit-text-stroke: 2PX black;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.tracker{
+    font-size:40px;
+    font-weight: bolder;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.form-div{
+/* background-color: red; */
+width: 60%;
+height: 80%;
+margin-left: 20%;
+margin-top: 1.5%;
+padding: 2%;
+box-shadow: 0px 0px 10px;
+font-size: 15px;
+font-weight: bolder;
+border-radius: 10px;
+backdrop-filter: blur(7px);
+}
+
+.bgimage{
+position: absolute;
+height: 100%;
+width: 100%;
+opacity: 0.5;
+z-index: -3;
+}
